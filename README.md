@@ -1,6 +1,7 @@
 # Sudoku Game in Assembly Language
-<h2 color=#F7CC18FF> Hi there, I'm Altamash Zaheer👋<a href="#"></h2>
 Sudoku is a popular puzzle game that provides entertainment and a mental challenge to players. The primary objective of creating a Sudoku game is to offer users an enjoyable experience and keep them engaged.
+<h2 color=#F7CC18FF> Hi there, I'm Altamash Zaheer👋<a href="#"></h2>
+ Let's start with the table of contents.
 
 ## Table of Contents
 
